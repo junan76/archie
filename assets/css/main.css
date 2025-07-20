@@ -170,7 +170,7 @@ h6::before { color: var(--maincolor); content: '###### '; }
 
 .post-content {
   flex: none;
-  min-width: 0;
+  width: 100%;
 }
 
 .toc {
